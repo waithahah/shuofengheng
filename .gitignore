@@ -38,12 +38,20 @@ next-env.d.ts
 # Vercel
 .vercel
 
-# Local settings (not project config)
-.claude/settings.local.json
-
-# User-specific skills (not part of the template)
-.claude/skills/customize/
-.claude/skills/release/
-
 # Local temp files
 temp/
+
+# AI Agent Skills & Commands (ai-website-cloner-template)
+.claude/
+.gemini/
+.cursor/
+.codex/
+.github/
+.windsurf/
+.opencode/
+.augment/
+.continue/
+.amazonq/
+.clinerules
+.windsurfrules
+.aider.conf.yml
